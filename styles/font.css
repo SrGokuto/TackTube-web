@@ -1,0 +1,11 @@
+@font-face {
+    font-family: '0xProto';
+    src: url('https://raw.githack.com/SrGokuto/cdn-inferna/main/0xProtoNF-Regular.woff2') format('woff2'),
+        url('https://raw.githack.com/SrGokuto/cdn-inferna/main/0xProtoNF-Regular.woff') format('woff'),
+        url('https://raw.githack.com/SrGokuto/cdn-inferna/main/0xProtoNF-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+*{
+    font-family: '0xProto';
+}
